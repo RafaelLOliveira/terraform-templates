@@ -14,7 +14,7 @@ variable vpc_subnet {
 
 variable region {
     description = "Region to deploy"
-    default = "us-south"
+    default = "br-sao"
 }
 
 variable bits_ahead_subnet {
